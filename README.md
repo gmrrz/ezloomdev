@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Computer Science student at Montclair State University, Class of May 2026, specializing in **Cybersecurity**, **Digital Forensics**, and **IT Administration**. My passion lies in securing systems, analyzing digital evidence, and building robust IT infrastructures while developing practical software solutions.
+I am a Computer Science student, Class of May 2026, specializing in **Cybersecurity**, **Digital Forensics**, and **IT Administration**. My passion lies in securing systems, analyzing digital evidence, and building robust IT infrastructures while developing practical software solutions.
 
 I have hands-on experience in:
 
